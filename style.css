@@ -33,6 +33,7 @@ header p {
   align-items: flex-start;
   background-image: url('http://icloudpicture.com/wp-content/uploads/2015/09/Amazing-Abstract-4K-Wallpaper.jpg');
   background-size: cover;
+  background-position: bottom-center;
   color: white;
   height: 700px;
   width: 100%;
