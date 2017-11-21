@@ -29,7 +29,6 @@ header p {
 }
 
 .jumbotron {
-  display: flex;
   background-image: url('http://icloudpicture.com/wp-content/uploads/2015/09/Amazing-Abstract-4K-Wallpaper.jpg');
   background-size: cover;
   height: 700px;
