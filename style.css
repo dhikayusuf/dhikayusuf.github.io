@@ -35,6 +35,7 @@ header p {
   background-size: cover;
   color: white;
   height: 100%;
+  background-size: 100% 100%;
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
