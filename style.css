@@ -29,10 +29,12 @@ header p {
 }
 
 .jumbotron {
+  display: flex;
+  align-items: center;
   background-image: url('http://icloudpicture.com/wp-content/uploads/2015/09/Amazing-Abstract-4K-Wallpaper.jpg');
-  background-position: center;
+  background-size: cover;
+  color: #ffffff;
   height: 500px;
-  width: 100%;
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
